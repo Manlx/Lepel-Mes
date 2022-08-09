@@ -2,7 +2,9 @@
   margin:0px;
   padding:0px;
 }
-
+body{
+  background-color: #232323;
+}
 #octocat {
   display: block;
   width:384px;
@@ -10,6 +12,7 @@
 }
 
 p {
+  color: white;
   display: block;
   width: 400px;
   margin: 50px auto;
